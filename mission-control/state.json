@@ -1,0 +1,59 @@
+{
+  "version": "v0",
+  "last_refresh": null,
+  "repos": {
+    "connectome-backend": {
+      "default_branch": "main",
+      "health": "unknown",
+      "last_deploy_commit": null,
+      "open_prs": [],
+      "top_issues": []
+    },
+    "connectome-web": {
+      "default_branch": "main",
+      "health": "unknown",
+      "last_deploy_commit": null,
+      "open_prs": [],
+      "top_issues": []
+    },
+    "the-stewardship": {
+      "default_branch": "main",
+      "health": "bootstrapping",
+      "last_deploy_commit": null,
+      "open_prs": [],
+      "top_issues": []
+    }
+  },
+  "feedback_queue": {
+    "last_24h_count": null,
+    "open_threads": [],
+    "top_areas": []
+  },
+  "deploys": {
+    "connectome-api_health": null,
+    "last_check": null
+  },
+  "costs": {
+    "last_7d": null,
+    "last_30d": null,
+    "by_model": {}
+  },
+  "autonomy_queue": [
+    "fix typos and small UI polish in connectome-web",
+    "open well-scoped GitHub issues with CP tags",
+    "refactor internal docs and READMEs",
+    "add minimal tests for stable endpoints",
+    "rebuild Mission Control state from sources"
+  ],
+  "approval_queue": [
+    "send first-five Stewardship outreach (awaiting Avi explicit go)",
+    "publish doctrine to atdao.org/The-Stewardship (awaiting DNS + page approval)",
+    "merge any PR into main (per AGENTS.md hard rule)"
+  ],
+  "weekly_cycle": {
+    "last_audit": null,
+    "next_audit": "2026-05-04 evening Pacific",
+    "top3_improvements": [],
+    "status": "pending first run"
+  }
+}

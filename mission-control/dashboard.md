@@ -1,6 +1,6 @@
 # Mission Control — Live Dashboard
 
-_Last refresh: 2026-05-02T21:00:11.839074+00:00_
+_Last refresh: 2026-05-02T21:54:54.859400+00:00_
 
 ## Repos
 ### connectome-backend
@@ -41,7 +41,7 @@ _Last refresh: 2026-05-02T21:00:11.839074+00:00_
 
 ## Deploys
 - connectome-api health: 200
-- last check: 2026-05-02T21:00:11.839074+00:00
+- last check: 2026-05-02T21:54:54.859400+00:00
 
 ## Autonomy Queue
 - fix typos and small UI polish in connectome-web

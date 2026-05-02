@@ -1,0 +1,90 @@
+name: Stewardship Proposal
+description: Propose a change to any rule, doctrine clause, governance parameter, or expenditure.
+title: "[proposal] "
+labels: ["proposal", "state:open"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome. Anyone may propose a change to any rule, doctrine clause, governance parameter, or expenditure of The Stewardship.
+
+        Please be clear, concrete, and constructive. Stewards will review and may ask for clarifications.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - doctrine
+        - governance
+        - treasury
+        - operations
+        - other
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: One-line summary
+      placeholder: "Change X so that Y, because Z."
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why is this change needed? What problem does it address?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: Concrete change. Include diff or specific wording where possible.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: What other options exist and why is yours preferred?
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact and risks
+      description: Who is affected, who could be harmed, and how is harm mitigated?
+
+  - type: textarea
+    id: reversibility
+    attributes:
+      label: Reversibility
+      description: How can this be unwound if it doesn't work?
+
+  - type: dropdown
+    id: vote_type
+    attributes:
+      label: Suggested vote type
+      options:
+        - temperature-check
+        - standard
+        - constitutional
+        - treasury
+        - recall
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: principles
+    attributes:
+      label: Alignment with Stewardship principles
+      options:
+        - label: This proposal protects autonomy.
+        - label: This proposal does not coerce anyone outside The Stewardship.
+        - label: This proposal preserves reversibility.
+        - label: This proposal is transparent and auditable.
+        - label: This proposal does not concentrate power.

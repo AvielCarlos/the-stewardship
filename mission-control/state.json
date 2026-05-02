@@ -1,6 +1,6 @@
 {
   "version": "v0",
-  "last_refresh": "2026-05-02T21:00:11.839074+00:00",
+  "last_refresh": "2026-05-02T21:54:54.859400+00:00",
   "repos": {
     "connectome-backend": {
       "default_branch": "main",
@@ -748,7 +748,7 @@
   },
   "deploys": {
     "connectome-api_health": "200",
-    "last_check": "2026-05-02T21:00:11.839074+00:00"
+    "last_check": "2026-05-02T21:54:54.859400+00:00"
   },
   "costs": {
     "last_7d": null,

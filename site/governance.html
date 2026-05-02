@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Open Governance — The Stewardship</title>
+  <meta name="description" content="How The Stewardship governs itself: open proposals, participatory voting, transparent treasury, and reversible decisions." />
+  <meta name="theme-color" content="#07090d" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ctext x='50%25' y='62%25' font-size='22' text-anchor='middle' fill='%23b19cff'%3E✦%3C/text%3E%3C/svg%3E" />
+  <link rel="canonical" href="https://stewardship.atdao.org/governance.html" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="starfield" aria-hidden="true"></div>
+  <main>
+    <p class="kicker">A way of deciding together</p>
+    <h1>Open Governance</h1>
+    <p class="lede">Anyone can propose a change. Everyone can vote on what matters.</p>
+
+    <section>
+      <p>The Stewardship is governed by its members, in the open. Anyone may propose a change to any rule, doctrine clause, governance parameter, or expenditure. Members vote, and decisions are reversible.</p>
+      <p>This is internal governance — the rules of The Stewardship community — not a replacement for the laws of any state. Nothing here coerces anyone outside The Stewardship.</p>
+    </section>
+
+    <section>
+      <h2>How it works</h2>
+      <ol>
+        <li><strong>Anyone proposes.</strong> Open a proposal using the <a href="https://github.com/AvielCarlos/the-stewardship/issues/new?template=stewardship-proposal.yml">Stewardship proposal template</a>.</li>
+        <li><strong>Discussion is public.</strong> 72 hours minimum, in the open, with stewards available to clarify.</li>
+        <li><strong>Members vote.</strong> One verified member, one base vote. Contribution Points (CP) add a quadratic boost — never plutocracy.</li>
+        <li><strong>Decisions are recorded.</strong> Every result is published with vote weights and rationale.</li>
+        <li><strong>Decisions are reversible.</strong> A counter-proposal can reopen any past decision.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Vote types</h2>
+      <ul>
+        <li><strong>Temperature check</strong> — quick public signal via reactions. Non-binding.</li>
+        <li><strong>Standard vote</strong> — for governance, operations, partnerships.</li>
+        <li><strong>Treasury vote</strong> — every expenditure above a published threshold is voted on, line-by-line.</li>
+        <li><strong>Constitutional vote</strong> — for doctrine, surplus split, hard rules. 75% supermajority required.</li>
+        <li><strong>Recall</strong> — to pause, freeze, or unwind a recent decision or remove a steward.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Treasury, in the open</h2>
+      <p>Every line-item expenditure is proposed, voted, and published. No anonymous transfers. No quiet allocations. Members may inspect the full ledger at any time.</p>
+      <p>Categories include doctrine work, infrastructure, member dividends (50% universal / 50% CP-weighted), audits, partnerships, dignity grants, and legal — all decided collectively.</p>
+    </section>
+
+    <section>
+      <h2>Anti-capture</h2>
+      <ul>
+        <li>No individual's voting power may exceed 5% of total active voting power.</li>
+        <li>No delegation cluster (including Ascension Technologies + the founder) may exceed 10%.</li>
+        <li>Quadratic CP scaling, not linear, so contribution matters but does not dominate.</li>
+        <li>Hard rules require supermajority + (in the bootstrap window) founder sign-off — to protect the doctrine from runaway change.</li>
+        <li>Quiet exit is always available; no participation is coerced.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Phases</h2>
+      <ol>
+        <li><strong>Phase 0 — design.</strong> Live now. Doctrine, governance design, sign-up, GitHub proposal templates.</li>
+        <li><strong>Phase 1 — signal.</strong> GitHub-issue proposals + reaction voting. Stewards summarise weekly. No money yet.</li>
+        <li><strong>Phase 2 — verified-member voting.</strong> Identity-light verification + signed-message ballots.</li>
+        <li><strong>Phase 3 — treasury.</strong> Open expenditure votes. Quarterly public ledger.</li>
+        <li><strong>Phase 4 — federated circles.</strong> Local subsidiarity within the same constitution.</li>
+        <li><strong>Phase 5 — open ratification.</strong> Anyone may sign the Pact, individually or organisationally.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Start here</h2>
+      <ul>
+        <li><a href="signup.html">Sign up</a> — express interest in becoming a Stewardship member.</li>
+        <li><a href="https://github.com/AvielCarlos/the-stewardship/issues/new?template=stewardship-proposal.yml">Open a proposal</a> — propose any change you'd like the community to consider.</li>
+        <li><a href="https://github.com/AvielCarlos/the-stewardship/blob/main/governance/README.md">Read the full governance doc</a>.</li>
+      </ul>
+    </section>
+
+    <a class="back-link" href="index.html">← back to The Stewardship</a>
+  </main>
+  <script>
+    (function(){var f=document.querySelector('.starfield');if(!f)return;var n=60,sz=['','','','lg','xl'];for(var i=0;i<n;i++){var s=document.createElement('div');s.className='star '+sz[Math.floor(Math.random()*sz.length)];s.style.left=Math.random()*100+'%';s.style.top=Math.random()*100+'%';s.style.animationDelay=(Math.random()*6)+'s';s.style.animationDuration=(4+Math.random()*6)+'s';f.appendChild(s);}})();
+  </script>
+</body>
+</html>

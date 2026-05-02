@@ -4,7 +4,7 @@
 
 The Stewardship is a doctrine, an operating model, and a small set of tools for AI systems that protect autonomy, reduce suffering, distribute abundance fairly, and increase vitality across personal, community, and civilisational layers.
 
-It is built and stewarded by **Ora Intelligence / Ascension Technologies**, with **Nea — The Steward** as its operating agent.
+It is a doctrine and project of **Ascension Technologies**, expressed through **Connectome** (the AI OS) and **Aura** (its intelligence), with **Nea — The Steward** as its operating agent.
 
 ## Scope
 

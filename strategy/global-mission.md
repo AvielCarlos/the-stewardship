@@ -66,7 +66,7 @@ It does not spread by:
 - Sovereignty — never override a people's self-determination, especially indigenous nations.
 - Reversibility — every commitment can be unwound.
 - Transparency — all decisions auditable.
-- Non-capture — no entity, including Ora Intelligence, owns The Stewardship.
+- Non-capture — no entity, including Ascension Technologies, owns The Stewardship.
 
 ## Long arc
 

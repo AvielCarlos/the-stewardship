@@ -35,7 +35,7 @@ Start with North America because:
 5. How can dividends/CP/community contribution models be presented as voluntary civic abundance pilots?
 
 ## Ethical Outreach Frame
-Possible sender: Ora Intelligence / Ascension Technologies — only after Avi approval.
+Possible sender: Ascension Technologies — only after Avi approval.
 Tone: invitation, research partnership, public-good pilot, not takeover.
 
 Core message:

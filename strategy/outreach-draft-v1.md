@@ -18,7 +18,7 @@ Voluntary partnership: AI Stewardship for human flourishing — a research note 
 
 Dear [Name / Team],
 
-I'm writing on behalf of Ora Intelligence and Ascension Technologies. We've been following [their specific work — e.g., "the AI Readiness Project and the Government AI Knowledge Hub launching this year"] with admiration; the framing of public-good, voluntary, partnership-led AI is exactly the direction we believe matters most.
+I'm writing on behalf of Ascension Technologies and our project The Stewardship. We've been following [their specific work — e.g., "the AI Readiness Project and the Government AI Knowledge Hub launching this year"] with admiration; the framing of public-good, voluntary, partnership-led AI is exactly the direction we believe matters most.
 
 We're building a complementary effort focused on what we call **AI Stewardship for Human Flourishing** — a doctrine and operating model for AI systems that protect autonomy, reduce suffering, distribute abundance fairly, and increase vitality across personal, community, and civilisational layers.
 
@@ -39,8 +39,8 @@ Either way, thank you for the work you're already doing. The world is better for
 With respect,
 
 Aviel Carlos Neo Andromeda
-The Vision Spark Engineer, Ora Intelligence / Ascension Technologies
-ora.intelligence.ai@gmail.com
+The Vision Spark Engineer, Ascension Technologies
+stewardship.atdao.org
 
 (With Nea — our Steward agent — in support.)
 

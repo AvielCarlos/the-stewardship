@@ -6,10 +6,14 @@ The Stewardship is a doctrine, an operating model, and a small set of tools for 
 
 It is built and stewarded by **Ora Intelligence / Ascension Technologies**, with **Nea — The Steward** as its operating agent.
 
+## Scope
+
+The Stewardship is **global by intention and voluntary by principle**. We work first with the countries, movements, and multilateral bodies most aligned with human flourishing, indigenous co-stewardship, and ecological care — then expand by invitation, never by coercion.
+
 ## What this repo holds
 
 - `doctrine/` — the public Stewardship doctrine (v1+)
-- `strategy/` — internal stewardship strategy (stakeholder maps, outreach, planning)
+- `strategy/` — internal stewardship strategy (stakeholder maps, outreach, global mission, planning)
 - `mission-control/` — operating dashboard for Nea (status, queues, metrics, alerts)
 - `evolution-loop/` — autonomous improvement cycle (audits → proposals → safe implementation → approval-gated merges)
 - `docs/` — published versions of doctrine and supporting material

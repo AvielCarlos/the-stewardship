@@ -1,20 +1,737 @@
 {
   "version": "v0",
-  "last_refresh": null,
+  "last_refresh": "2026-05-02T21:00:11.839074+00:00",
   "repos": {
     "connectome-backend": {
       "default_branch": "main",
       "health": "unknown",
       "last_deploy_commit": null,
       "open_prs": [],
-      "top_issues": []
+      "top_issues": [
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j00Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j04A",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDv6A",
+              "name": "agent-dev",
+              "description": "Ora agents, IOO execution, and agentic workflows",
+              "color": "1d76db"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDwLw",
+              "name": "backend",
+              "description": "Backend, APIs, data, infra",
+              "color": "0e8a16"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxPQ",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 63,
+          "title": "SwarmSync full integration: trust, AP2 hiring, and verification",
+          "updatedAt": "2026-05-02T20:00:23Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j00Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j04A",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDwLw",
+              "name": "backend",
+              "description": "Backend, APIs, data, infra",
+              "color": "0e8a16"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxBA",
+              "name": "ml-graph",
+              "description": "Embeddings, graph intelligence, ranking, ML",
+              "color": "5319e7"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxPQ",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 60,
+          "title": "Persist node_id on saved feed cards for lifecycle analytics",
+          "updatedAt": "2026-05-02T19:59:00Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j00Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j04A",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDwLw",
+              "name": "backend",
+              "description": "Backend, APIs, data, infra",
+              "color": "0e8a16"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxBA",
+              "name": "ml-graph",
+              "description": "Embeddings, graph intelligence, ranking, ML",
+              "color": "5319e7"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxPQ",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 57,
+          "title": "Backend: rank default Now across goals, values, and unstated aligned possibilities",
+          "updatedAt": "2026-05-02T20:44:04Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j00Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j04A",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDv6A",
+              "name": "agent-dev",
+              "description": "Ora agents, IOO execution, and agentic workflows",
+              "color": "1d76db"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDwLw",
+              "name": "backend",
+              "description": "Backend, APIs, data, infra",
+              "color": "0e8a16"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxPQ",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 55,
+          "title": "Autonomous admin intelligence: replace manual in-app admin panels",
+          "updatedAt": "2026-05-02T20:44:04Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j0ow",
+              "name": "bug",
+              "description": "Something isn't working",
+              "color": "d73a4a"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j04A",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDwLw",
+              "name": "backend",
+              "description": "Backend, APIs, data, infra",
+              "color": "0e8a16"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxBA",
+              "name": "ml-graph",
+              "description": "Embeddings, graph intelligence, ranking, ML",
+              "color": "5319e7"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxPQ",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 51,
+          "title": "Feed freshness: prevent stale weather and wrong-location cards",
+          "updatedAt": "2026-05-02T20:44:05Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j00Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j04A",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDv6A",
+              "name": "agent-dev",
+              "description": "Ora agents, IOO execution, and agentic workflows",
+              "color": "1d76db"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDwLw",
+              "name": "backend",
+              "description": "Backend, APIs, data, infra",
+              "color": "0e8a16"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxPQ",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 50,
+          "title": "Aura outreach action: submit project link and share with matched people",
+          "updatedAt": "2026-05-02T20:44:06Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j00Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j04A",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDv6A",
+              "name": "agent-dev",
+              "description": "Ora agents, IOO execution, and agentic workflows",
+              "color": "1d76db"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDwLw",
+              "name": "backend",
+              "description": "Backend, APIs, data, infra",
+              "color": "0e8a16"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxPQ",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 47,
+          "title": "Aura active research: ranked live links with safe provider adapters",
+          "updatedAt": "2026-05-02T17:02:28Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j00Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j04A",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDv6A",
+              "name": "agent-dev",
+              "description": "Ora agents, IOO execution, and agentic workflows",
+              "color": "1d76db"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDwLw",
+              "name": "backend",
+              "description": "Backend, APIs, data, infra",
+              "color": "0e8a16"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxBA",
+              "name": "ml-graph",
+              "description": "Embeddings, graph intelligence, ranking, ML",
+              "color": "5319e7"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxPQ",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 46,
+          "title": "Compute/API provider support: inference, embeddings, search credits",
+          "updatedAt": "2026-05-02T20:44:07Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j00Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j04A",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDv6A",
+              "name": "agent-dev",
+              "description": "Ora agents, IOO execution, and agentic workflows",
+              "color": "1d76db"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDwLw",
+              "name": "backend",
+              "description": "Backend, APIs, data, infra",
+              "color": "0e8a16"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxPQ",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 41,
+          "title": "Cloud migration: remove laptop/OpenClaw runtime dependencies",
+          "updatedAt": "2026-04-30T20:43:07Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j00Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAACg6j04A",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDwLw",
+              "name": "backend",
+              "description": "Backend, APIs, data, infra",
+              "color": "0e8a16"
+            },
+            {
+              "id": "LA_kwDOSNlrGs8AAAAChTDxPQ",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 40,
+          "title": "Infra: make URLs/secrets env-driven for serverless portability",
+          "updatedAt": "2026-04-30T16:07:24Z"
+        }
+      ]
     },
     "connectome-web": {
       "default_branch": "main",
       "health": "unknown",
       "last_deploy_commit": null,
       "open_prs": [],
-      "top_issues": []
+      "top_issues": [
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6fyQ",
+              "name": "bug",
+              "description": "Something isn't working",
+              "color": "d73a4a"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f_w",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyHw",
+              "name": "frontend",
+              "description": "Frontend, UX, React surfaces",
+              "color": "fbca04"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDy2w",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 38,
+          "title": "iDo feed: verify card selection opens next steps reliably",
+          "updatedAt": "2026-05-02T17:04:59Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6fyQ",
+              "name": "bug",
+              "description": "Something isn't working",
+              "color": "d73a4a"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f_w",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyHw",
+              "name": "frontend",
+              "description": "Frontend, UX, React surfaces",
+              "color": "fbca04"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyTA",
+              "name": "design",
+              "description": "Design system and interface quality",
+              "color": "c2e0c6"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDy2w",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 37,
+          "title": "Mobile shell: prevent top bar from overlapping app content",
+          "updatedAt": "2026-05-02T17:04:58Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f8Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f_w",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyHw",
+              "name": "frontend",
+              "description": "Frontend, UX, React surfaces",
+              "color": "fbca04"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyTA",
+              "name": "design",
+              "description": "Design system and interface quality",
+              "color": "c2e0c6"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDy2w",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 36,
+          "title": "Check-in flow: include fun, enjoyment, and entertainment signals",
+          "updatedAt": "2026-05-02T17:04:57Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f8Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f_w",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDxsQ",
+              "name": "agent-dev",
+              "description": "Ora agents, IOO execution, and agentic workflows",
+              "color": "1d76db"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyHw",
+              "name": "frontend",
+              "description": "Frontend, UX, React surfaces",
+              "color": "fbca04"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyTA",
+              "name": "design",
+              "description": "Design system and interface quality",
+              "color": "c2e0c6"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDy2w",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 33,
+          "title": "Meta-app recommendations: embed Aura next-node guidance across app surfaces",
+          "updatedAt": "2026-05-01T06:28:47Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f8Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f_w",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyHw",
+              "name": "frontend",
+              "description": "Frontend, UX, React surfaces",
+              "color": "fbca04"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDy2w",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 30,
+          "title": "iDo feed: optimize startup requests and virtualize cards",
+          "updatedAt": "2026-04-30T14:45:35Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f8Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f_w",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDx5Q",
+              "name": "backend",
+              "description": "Backend, APIs, data, infra",
+              "color": "0e8a16"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyHw",
+              "name": "frontend",
+              "description": "Frontend, UX, React surfaces",
+              "color": "fbca04"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyng",
+              "name": "growth",
+              "description": "Onboarding, analytics, activation, contributor growth",
+              "color": "f9d0c4"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDy2w",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 19,
+          "title": "Growth: developer onboarding analytics",
+          "updatedAt": "2026-04-29T23:42:45Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f8Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f_w",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyHw",
+              "name": "frontend",
+              "description": "Frontend, UX, React surfaces",
+              "color": "fbca04"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyTA",
+              "name": "design",
+              "description": "Design system and interface quality",
+              "color": "c2e0c6"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDy2w",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 18,
+          "title": "Frontend: split Profile vs Admin/System routes",
+          "updatedAt": "2026-04-29T23:42:43Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f8Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f_w",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6gDw",
+              "name": "good first issue",
+              "description": "Scoped entry point for new contributors",
+              "color": "7057ff"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyHw",
+              "name": "frontend",
+              "description": "Frontend, UX, React surfaces",
+              "color": "fbca04"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyTA",
+              "name": "design",
+              "description": "Design system and interface quality",
+              "color": "c2e0c6"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDy2w",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 17,
+          "title": "Good first issue: shared design component kit (PageHero, SectionCard, PrimaryCTA)",
+          "updatedAt": "2026-04-29T23:42:42Z"
+        },
+        {
+          "labels": [
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f8Q",
+              "name": "enhancement",
+              "description": "New feature or request",
+              "color": "a2eeef"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6f_w",
+              "name": "help wanted",
+              "description": "Extra attention is needed",
+              "color": "008672"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAACg_6gDw",
+              "name": "good first issue",
+              "description": "Scoped entry point for new contributors",
+              "color": "7057ff"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDxsQ",
+              "name": "agent-dev",
+              "description": "Ora agents, IOO execution, and agentic workflows",
+              "color": "1d76db"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDyHw",
+              "name": "frontend",
+              "description": "Frontend, UX, React surfaces",
+              "color": "fbca04"
+            },
+            {
+              "id": "LA_kwDOSOKzys8AAAAChTDy2w",
+              "name": "cp-reward",
+              "description": "Eligible for Contribution Points",
+              "color": "bfdadc"
+            }
+          ],
+          "number": 16,
+          "title": "Good first issue: contextual Ora quick actions per page",
+          "updatedAt": "2026-04-29T23:42:40Z"
+        }
+      ]
     },
     "the-stewardship": {
       "default_branch": "main",
@@ -30,8 +747,8 @@
     "top_areas": []
   },
   "deploys": {
-    "connectome-api_health": null,
-    "last_check": null
+    "connectome-api_health": "200",
+    "last_check": "2026-05-02T21:00:11.839074+00:00"
   },
   "costs": {
     "last_7d": null,

@@ -81,7 +81,7 @@ Each send must:
 ## Channel and Sender
 
 - **Sender identity:** Ascension Technologies (project: The Stewardship), signed by Aviel Carlos Neo Andromeda (The Vision Spark Engineer) with Nea (The Steward) noted.
-- **Email account:** `ora.intelligence.ai@gmail.com` (Google Workspace via `gog`).
+- **Email account:** `aura.ai.intelligence@gmail.com` (Google Workspace via `gog`).
 - **Cadence:** never more than one outreach burst per week; never bulk-blast; each message tailored.
 
 No message will be sent until Avi reviews the doctrine, this target list, and the draft memo.

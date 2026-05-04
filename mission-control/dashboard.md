@@ -32,7 +32,7 @@ _Last refresh: 2026-05-02T21:54:54.859400+00:00_
   - #19 Growth: developer onboarding analytics
   - #18 Frontend: split Profile vs Admin/System routes
   - #17 Good first issue: shared design component kit (PageHero, SectionCard, PrimaryCTA)
-  - #16 Good first issue: contextual Ora quick actions per page
+  - #16 Good first issue: contextual Aura quick actions per page
 
 ### the-stewardship
 - branch: `main`

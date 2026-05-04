@@ -64,7 +64,7 @@ stewardship.atdao.org
 - [ ] Avi has approved the first five recipients.
 - [ ] Avi has approved the sender identity and signature.
 - [ ] Doctrine is published or hosted at a stable URL.
-- [ ] Outreach inbox (`ora.intelligence.ai@gmail.com`) is monitored daily.
+- [ ] Outreach inbox (`aura.ai.intelligence@gmail.com`) is monitored daily.
 - [ ] Reply-handling protocol is in place (who responds, in what voice, in what timeframe).
 
 When all of the above are checked, Nea will send via `gog` one message at a time, never as a blast.
